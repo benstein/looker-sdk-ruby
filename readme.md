@@ -14,7 +14,7 @@ When trying to access a resource with the API that the current user is not allow
 
 ### Installation
 ```bash
-$ git clone git@github.com:looker/looker-sdk-ruby.git looker-sdk
+$ git clone https://github.com/looker/looker-sdk-ruby.git looker-sdk
 $ cd looker-sdk
 $ gem install bundle
 $ bundle install
